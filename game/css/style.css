@@ -1,0 +1,15 @@
+h1 {
+  font-size: 60px; 
+  font-family: Arial;
+  text-align: center;
+  color: white
+}
+
+div {
+  background-color: blue;
+}
+button {
+background-color:blue;
+font-size: 40px;
+color:#66ff66;
+}
